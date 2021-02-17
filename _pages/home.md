@@ -25,25 +25,25 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="/images/slider7001400/Fig_Science_Web.jpg  | {{ relative_url }}" alt="Slide 1" />
+            <img src={{ "/images/slider7001400/Fig_Science_Web.jpg"  | relative_url }} alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/QPI_Rh.jpg | {{ relative_url }}" alt="Slide 2" />
+            <img src={{ "/images/slider7001400/QPI_Rh.jpg" | relative_url }} alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/NoiseCover2.jpg | {{ relative_url }}" alt="Slide 3" />
+            <img src={{ "/images/slider7001400/NoiseCover2.jpg" | relative_url }} alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/SaphireSTM2.jpg | {{ relative_url }}" alt="Slide 4" />
+            <img src={{ "/images/slider7001400/SaphireSTM2.jpg" | relative_url }} alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/lab.jpg | {{ relative_url }}" alt="Slide 5" />
+            <img src={{ "/images/slider7001400/lab.jpg" | relative_url }} alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/SmartTipSide.jpg | {{ relative_url }}" alt="Slide 6" />
+            <img src={{ "/images/slider7001400/SmartTipSide.jpg" | relative_url }} alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="/images/slider7001400/cake_web.jpg | {{ relative_url }}" alt="Slide 7" />
+            <img src={{ "/images/slider7001400/cake_web.jpg" | relative_url }} alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -63,14 +63,14 @@ To this end, we develop novel spectroscopic-imaging scanning tunneling microscop
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]("/vacancies | {{ relative_url }}") **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ "/vacancies" | relative_url }}) **!**
 
 
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src="/images/logopic/Logo_Leiden.jpg | {{ relative_url }}" style="width: 210px">
-  <img src="/images/logopic/Logo_Nanofront.jpg  | {{ relative_url }}" style="width: 110px">
-  <img src="/images/logopic/Logo_NWO.jpg  | {{ relative_url }}" style="width: 120px">
-  <img src="/images/logopic/Logo_ERC.jpg  | {{ relative_url }}" style="width: 110px">
+  <img src={{ "/images/logopic/Logo_Leiden.jpg" | relative_url }} style="width: 210px">
+  <img src={{ "/images/logopic/Logo_Nanofront.jpg"  | relative_url }} style="width: 110px">
+  <img src={{ "/images/logopic/Logo_NWO.jpg"  | relative_url }} style="width: 120px">
+  <img src={{ "/images/logopic/Logo_ERC.jpg"  | relative_url }} style="width: 110px">
 </figure>
