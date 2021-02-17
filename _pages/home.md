@@ -28,7 +28,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
             <img src={{ "/images/slider7001400/Fig_Science_Web.jpg"  | relative_url }} alt="Slide 1" />
         </div>
         <div class="item">
-            <img src={{ "/images/slider7001400/QPI_Rh.jpg" | relative_url }} alt="Slide 2" />
+            <img src="{{ "/images/slider7001400/QPI_Rh.jpg" | relative_url }}" alt="Slide 2" />
         </div>
         <div class="item">
             <img src={{ "/images/slider7001400/NoiseCover2.jpg" | relative_url }} alt="Slide 3" />
@@ -69,8 +69,8 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src={{ "/images/logopic/Logo_Leiden.jpg" | relative_url }} style="width: 210px">
-  <img src={{ "/images/logopic/Logo_Nanofront.jpg"  | relative_url }} style="width: 110px">
-  <img src={{ "/images/logopic/Logo_NWO.jpg"  | relative_url }} style="width: 120px">
-  <img src={{ "/images/logopic/Logo_ERC.jpg"  | relative_url }} style="width: 110px">
+  <img src="{{ "/images/logopic/Logo_Leiden.jpg" | relative_url }}" style="width: 210px">
+  <img src="{{ "/images/logopic/Logo_Nanofront.jpg"  | relative_url }}" style="width: 110px">
+  <img src="{{ "/images/logopic/Logo_NWO.jpg"  | relative_url }}" style="width: 120px">
+  <img src="{{ "/images/logopic/Logo_ERC.jpg"  | relative_url }}" style="width: 110px">
 </figure>
